@@ -1,5 +1,5 @@
 var katzDeli = []
 
-function takeANumber(katzDeli, name) {
+function takeANumber(katzDeliLine, name) {
   
 }

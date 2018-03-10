@@ -1,1 +1,3 @@
-function takeANumber(names)
+var katzDeli = []
+
+function takeANumber()
